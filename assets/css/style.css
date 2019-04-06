@@ -1,0 +1,23 @@
+/* General Elements*/
+	* {
+		font-family: 'Megrim', cursive;
+		font-size: 40px;
+	}
+
+	p {
+		font-family: 'Nova Flat', cursive;
+		font-size: 24px;
+		text-align: center;
+	}
+
+	li {
+		    background: url("../images/krystal.jpeg");
+			font-family: 'Nova Flat', cursive;
+			font-size: 24px;
+			text-align: center;
+		
+	}
+h2 {
+	
+	font-size: 30px;
+}
